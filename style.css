@@ -1,0 +1,32 @@
+.heading{
+    font-size: 100px;
+    width: 100%;
+    margin:0px;
+    height: 130px;
+    font-family: 'Times New Roman', Times, serif;}
+#info{
+    float: left;
+    padding: 20px;
+    margin-left: 70px;
+}
+
+#red{
+    float: right;
+    padding: 20px;
+    margin-right: 70px;
+}
+#c{
+    float: left;
+}
+#d{
+    float: right;
+}
+body{
+    background-color: aqua;
+}
+h2{
+    margin-left: 70px;
+    margin-right: 70px;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
